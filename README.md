@@ -4,7 +4,7 @@ Socket Programming
 <br />
 <div align="center">
   <a>
-    <img src="readme-assets/intro.png" alt="Logo" width="240" height="240">
+    <img src="intro.png" alt="Logo" width="240" height="240">
   </a>
 </div>
 
